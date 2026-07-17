@@ -23,6 +23,7 @@ markers:
   - {type: line-break, offset: 20, content: '', id: KR2b0040_WYG_128-1a04}
   - {type: indent, offset: 20, content: 　, id: KR2b0040_krp_128-bkkind3}
   - {type: punctuation, offset: 27, content: (, id: KR2b0040_krp_128-bkkpn1}
+  - {type: voice, offset: 27, length: 18, name: note, id: n1}
   - {type: substitution, offset: 35, original: 𤣥, replacement: 玄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0001}}
   - {type: punctuation, offset: 36, content: /, id: KR2b0040_krp_128-bkkpn2}
   - {type: punctuation, offset: 45, content: ), id: KR2b0040_krp_128-bkkpn3}
@@ -44,6 +45,7 @@ markers:
   - {type: line-break, offset: 65, content: '', id: KR2b0040_WYG_128-1a07}
   - {type: indent, offset: 65, content: 　　　, id: KR2b0040_krp_128-bkkind6}
   - {type: punctuation, offset: 65, content: (, id: KR2b0040_krp_128-bkkpn4}
+  - {type: voice, offset: 65, length: 89, name: note, id: n2}
   - {type: punctuation, offset: 83, content: /, id: KR2b0040_krp_128-bkkpn5}
   - {type: punctuation, offset: 101, content: ), id: KR2b0040_krp_128-bkkpn6}
   - {type: 'kr:newline', offset: 101, content: '
@@ -1033,6 +1035,7 @@ markers:
   - {type: line-break, offset: 3912, content: '', id: KR2b0040_WYG_128-12b08}
   - {type: substitution, offset: 3918, original: 聴, replacement: 聽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20717}}
   - {type: punctuation, offset: 3920, content: (, id: KR2b0040_krp_128-bkkpn13}
+  - {type: voice, offset: 3920, length: 36, name: note, id: n3}
   - {type: punctuation, offset: 3933, content: /, id: KR2b0040_krp_128-bkkpn14}
   - {type: punctuation, offset: 3946, content: ), id: KR2b0040_krp_128-bkkpn15}
   - {type: 'kr:newline', offset: 3946, content: '
@@ -2399,4 +2402,4 @@ markers:
 
       ', id: KR2b0040_krp_128-bkkkrnewl503}
   back: []
-hash: sha256:e632f87c7186644db33722ed8d263163acd4914d739a191001efd889254e6497
+hash: sha256:441497388b081f4a87d848cdd5a57a7a3ac36262239dc632747dafe5f82bb8df

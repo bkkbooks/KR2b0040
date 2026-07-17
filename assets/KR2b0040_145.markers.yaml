@@ -23,6 +23,7 @@ markers:
   - {type: line-break, offset: 20, content: '', id: KR2b0040_WYG_145-1a04}
   - {type: indent, offset: 20, content: 　, id: KR2b0040_krp_145-bkkind3}
   - {type: punctuation, offset: 27, content: (, id: KR2b0040_krp_145-bkkpn1}
+  - {type: voice, offset: 27, length: 18, name: note, id: n1}
   - {type: punctuation, offset: 36, content: /, id: KR2b0040_krp_145-bkkpn2}
   - {type: punctuation, offset: 45, content: ), id: KR2b0040_krp_145-bkkpn3}
   - {type: 'kr:newline', offset: 45, content: '
@@ -176,6 +177,7 @@ markers:
       ', id: KR2b0040_krp_145-bkkkrnewl36}
   - {type: line-break, offset: 611, content: '', id: KR2b0040_WYG_145-3a01}
   - {type: punctuation, offset: 623, content: (, id: KR2b0040_krp_145-bkkpn4}
+  - {type: voice, offset: 623, length: 11, name: note, id: n2}
   - {type: punctuation, offset: 629, content: /, id: KR2b0040_krp_145-bkkpn5}
   - {type: punctuation, offset: 634, content: ), id: KR2b0040_krp_145-bkkpn6}
   - {type: indent, offset: 634, content: 　, id: KR2b0040_krp_145-bkkind6}
@@ -1517,6 +1519,7 @@ markers:
       ', id: KR2b0040_krp_145-bkkkrnewl306}
   - {type: line-break, offset: 5578, content: '', id: KR2b0040_WYG_145-18a01}
   - {type: punctuation, offset: 5597, content: (, id: KR2b0040_krp_145-bkkpn7}
+  - {type: voice, offset: 5597, length: 54, name: note, id: n3}
   - {type: punctuation, offset: 5599, content: /, id: KR2b0040_krp_145-bkkpn8}
   - {type: punctuation, offset: 5601, content: ), id: KR2b0040_krp_145-bkkpn9}
   - {type: 'kr:newline', offset: 5601, content: '
@@ -2851,6 +2854,7 @@ markers:
       ', id: KR2b0040_krp_145-bkkkrnewl570}
   - {type: line-break, offset: 10468, content: '', id: KR2b0040_WYG_145-32b04}
   - {type: punctuation, offset: 10482, content: (, id: KR2b0040_krp_145-bkkpn16}
+  - {type: voice, offset: 10482, length: 9, name: note, id: n4}
   - {type: punctuation, offset: 10487, content: /, id: KR2b0040_krp_145-bkkpn17}
   - {type: punctuation, offset: 10491, content: ), id: KR2b0040_krp_145-bkkpn18}
   - {type: indent, offset: 10491, content: 　, id: KR2b0040_krp_145-bkkind144}
@@ -3130,4 +3134,4 @@ markers:
 
       ', id: KR2b0040_krp_145-bkkkrnewl629}
   back: []
-hash: sha256:69e3257b6b9c714e1ca2818fe39edd9152a9d26817b4d797d54423e797ce3309
+hash: sha256:55ace2e44536d02f6c94f46ac6f71318cb8edd6e3788eec467a742d5b19b798f

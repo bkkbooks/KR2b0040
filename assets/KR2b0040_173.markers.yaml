@@ -23,6 +23,7 @@ markers:
   - {type: line-break, offset: 20, content: '', id: KR2b0040_WYG_173-1a04}
   - {type: indent, offset: 20, content: 　, id: KR2b0040_krp_173-bkkind3}
   - {type: punctuation, offset: 25, content: (, id: KR2b0040_krp_173-bkkpn1}
+  - {type: voice, offset: 25, length: 19, name: note, id: n1}
   - {type: punctuation, offset: 35, content: /, id: KR2b0040_krp_173-bkkpn2}
   - {type: substitution, offset: 41, original: 凢, replacement: 凡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16173}}
   - {type: punctuation, offset: 44, content: ), id: KR2b0040_krp_173-bkkpn3}
@@ -2051,6 +2052,7 @@ markers:
       ', id: KR2b0040_krp_173-bkkkrnewl429}
   - {type: line-break, offset: 7819, content: '', id: KR2b0040_WYG_173-24b07}
   - {type: punctuation, offset: 7826, content: (, id: KR2b0040_krp_173-bkkpn4}
+  - {type: voice, offset: 7826, length: 9, name: note, id: n2}
   - {type: punctuation, offset: 7831, content: /, id: KR2b0040_krp_173-bkkpn5}
   - {type: punctuation, offset: 7835, content: ), id: KR2b0040_krp_173-bkkpn6}
   - {type: indent, offset: 7835, content: 　, id: KR2b0040_krp_173-bkkind153}
@@ -2603,6 +2605,7 @@ markers:
       ', id: KR2b0040_krp_173-bkkkrnewl547}
   - {type: line-break, offset: 9998, content: '', id: KR2b0040_WYG_173-31a08}
   - {type: punctuation, offset: 10009, content: (, id: KR2b0040_krp_173-bkkpn7}
+  - {type: voice, offset: 10009, length: 13, name: note, id: n3}
   - {type: punctuation, offset: 10016, content: /, id: KR2b0040_krp_173-bkkpn8}
   - {type: punctuation, offset: 10022, content: ), id: KR2b0040_krp_173-bkkpn9}
   - {type: indent, offset: 10022, content: 　, id: KR2b0040_krp_173-bkkind190}
@@ -2827,4 +2830,4 @@ markers:
 
       ', id: KR2b0040_krp_173-bkkkrnewl593}
   back: []
-hash: sha256:e8407300cb4a8bae0fe62404da23de115f70ed37b534f17c28fefb1c4451b042
+hash: sha256:03c06e444998a083cd05150637a5731390c9128091133f87beb80843e4b2e047

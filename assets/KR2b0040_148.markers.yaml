@@ -23,6 +23,7 @@ markers:
   - {type: line-break, offset: 20, content: '', id: KR2b0040_WYG_148-1a04}
   - {type: indent, offset: 20, content: 　, id: KR2b0040_krp_148-bkkind3}
   - {type: punctuation, offset: 27, content: (, id: KR2b0040_krp_148-bkkpn1}
+  - {type: voice, offset: 27, length: 19, name: note, id: n1}
   - {type: substitution, offset: 36, original: 𤣥, replacement: 玄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0001}}
   - {type: punctuation, offset: 37, content: /, id: KR2b0040_krp_148-bkkpn2}
   - {type: substitution, offset: 43, original: 凢, replacement: 凡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16173}}
@@ -1804,6 +1805,7 @@ markers:
   - {type: line-break, offset: 6610, content: '', id: KR2b0040_WYG_148-21a04}
   - {type: substitution, offset: 6616, original: 𦵏, replacement: 葬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17430}}
   - {type: punctuation, offset: 6624, content: (, id: KR2b0040_krp_148-bkkpn4}
+  - {type: voice, offset: 6624, length: 22, name: note, id: n2}
   - {type: punctuation, offset: 6631, content: /, id: KR2b0040_krp_148-bkkpn5}
   - {type: substitution, offset: 6631, original: 叙, replacement: 敘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16962}}
   - {type: punctuation, offset: 6638, content: ), id: KR2b0040_krp_148-bkkpn6}
@@ -2046,4 +2048,4 @@ markers:
 
       ', id: KR2b0040_krp_148-bkkkrnewl413}
   back: []
-hash: sha256:bb39042cdcefaa5e8c6954495c3e1291dd4403defd025f8c86f0e2091683d5f1
+hash: sha256:540a6d7f06410416f7602b8f93a850e0695cec87376a9086aaf3aa39a7184e42
